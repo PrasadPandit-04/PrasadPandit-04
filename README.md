@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Prasad Pandit 👋
 
-<!--
-**PrasadPandit-04/PrasadPandit-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an experienced IT professional transitioning into Data Science. I have expertise in Windows Server Administration, System Engineering, Tech Support, and recently, Data Science with skills in Python, SQL, and Machine Learning.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages**: Python, SQL, MySQL
+- **Data Science**: Data Analysis, Statastics, Probability, Tableau, Machine Learning Algorithms
+- **Tools and Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn
+- **IT Skills**: Windows Servers, Exchange Servers, Windows Active Directory, DNS, DHCP, Microsoft Azure Cloud Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/prasadpandit04/)
+- Email: prasadpandiiit@gmail.com
