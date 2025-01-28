@@ -1,7 +1,8 @@
 # Hi, I'm Prasad Pandit 👋
 
 ## About Me
-I am an experienced IT professional transitioning into Data Science. I have expertise in Windows Server Administration, System Engineering, Tech Support, and recently, Data Science with skills in Python, SQL, and Machine Learning.
+Aspiring Data Scientist with a strong foundation in Python, SQL, and Machine Learning. Currently enrolled in a Post Graduate Program in Data Science, gaining expertise in Machine Learning Algorithms, and various Python libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn. Leveraging extensive experience in IT, including Windows Server Administration, System Engineering, and Technical Support, to bring a unique perspective to data-driven problem solving.
+
 
 ## Skills
 - **Programming Languages**: Python, SQL, MySQL
